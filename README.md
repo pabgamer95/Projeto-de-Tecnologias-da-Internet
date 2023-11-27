@@ -1,3 +1,3 @@
 # Projeto-de-Tecnologias-da-Internet
 Projeto de Tecnologias da Internet
-Pedro Cristiano
+Pedro Bispo & Cristiano Martins
