@@ -3,3 +3,17 @@
 body{
     
 }
+#head{
+    display: flex;
+    flex: wrap;
+}
+#marks{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    justify-content: center;
+}
+#marks img{
+    height: 75%;
+    width: 75%;
+}
