@@ -1,4 +1,7 @@
 /*Projeto.css*/
+body{
+font-family: Gill Sans, sans-serif;
+}
 #head{
     display: flex;
 }
