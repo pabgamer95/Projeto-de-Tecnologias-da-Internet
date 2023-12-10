@@ -1,12 +1,12 @@
 /*Projeto.css*/
-#head{
+head{
     display: flex;
 }
 #head img{
     width: 11%;
     height: 11%;
 }
-#marks{
+section{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
