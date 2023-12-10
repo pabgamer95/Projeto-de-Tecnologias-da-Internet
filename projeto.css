@@ -7,6 +7,10 @@ body{
     display: flex;
     flex: wrap;
 }
+#head img{
+    width: 11%;
+    height: 11%;
+}
 #marks{
     display: flex;
     flex-wrap: wrap;
