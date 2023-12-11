@@ -4,6 +4,10 @@ font-family: "Gill Sans", sans-serif;
 }
 #head{
     display: flex;
+<<<<<<< HEAD
+=======
+    align-items: center;
+>>>>>>> 1c6e0c21e4d21b8ebab5edf50d707ed1dc4a6de5
 }
 #head img{
     width: 11%;
