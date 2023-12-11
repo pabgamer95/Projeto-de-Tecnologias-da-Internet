@@ -3,9 +3,13 @@ body{
 font-family: "Gill Sans", sans-serif;
 }
 #head{
+    background-color: black;
+    color: white;
     display: flex;
+    align-items: baseline;
 }
 #head img{
+    filter: invert(100%);
     width: 11%;
     height: 11%;
 }
