@@ -1,30 +1,21 @@
 /*Projeto.css*/
 body{
-    font-family: "Gill Sans", sans-serif;
-    }
-    header{
-        display: flex;
-        justify-content: space-between;
-        
-    }
-    #head{
-        background-color: black;
-        color: white;
-        display: flex;
-        align-items: baseline;
-    }
-    #head img{
-        filter: invert(100%);
-        width: 11%;
-        height: 11%;
-    }
-    section{
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-around;
-        justify-content: center;
-    }
-    #marks img{
-        height: 75%;
-        width: 75%;
-    }
+font-family: "Gill Sans", sans-serif;
+}
+#head{
+    display: flex;
+}
+#head img{
+    width: 11%;
+    height: 11%;
+}
+section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    justify-content: center;
+}
+#marks img{
+    height: 75%;
+    width: 75%;
+}
