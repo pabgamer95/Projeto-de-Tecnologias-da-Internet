@@ -1,25 +1,25 @@
 /*Projeto.css*/
 body{
-font-family: "Gill Sans", sans-serif;
-}
-#head{
-    display: flex;
-<<<<<<< HEAD
-=======
-    align-items: center;
->>>>>>> 1c6e0c21e4d21b8ebab5edf50d707ed1dc4a6de5
-}
-#head img{
-    width: 11%;
-    height: 11%;
-}
-section{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    justify-content: center;
-}
-#marks img{
-    height: 75%;
-    width: 75%;
-}
+    font-family: "Gill Sans", sans-serif;
+    }
+    #head{
+        background-color: black;
+        color: white;
+        display: flex;
+        align-items: center;
+    }
+    #head img{
+        filter: invert(100%);
+        width: 11%;
+        height: 11%;
+    }
+    section{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        justify-content: center;
+    }
+    #marks img{
+        height: 75%;
+        width: 75%;
+    }
