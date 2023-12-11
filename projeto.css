@@ -6,7 +6,7 @@ font-family: "Gill Sans", sans-serif;
     background-color: black;
     color: white;
     display: flex;
-    align-items: baseline;
+    align-items: center;
 }
 #head img{
     filter: invert(100%);
