@@ -29,7 +29,6 @@ body{
         width: 100%;
       }
       .slide-wrapper {
-         
         width: calc(728px * 4);
         animation: slide 10s ease infinite;
       }
