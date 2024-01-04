@@ -1,6 +1,11 @@
 /*Projeto.css*/
 body{
     font-family: 'Gill Sans', sans-serif;
+    background-image: url(imagem\ de\ fundo.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
     }
     #head{
         background-color: black;
@@ -13,6 +18,13 @@ body{
         width: 11%;
         height: 11%;
     }
+    a{
+        text-decoration: none;
+        color:white
+    }
+    #marks p{
+        text-align: center
+    }
     section{
         display: flex;
         flex-wrap: wrap;
@@ -22,4 +34,8 @@ body{
     #marks img{
         height: 75%;
         width: 75%;
+        text-align: center;
+    }
+    article{
+        width: 25%;
     }
