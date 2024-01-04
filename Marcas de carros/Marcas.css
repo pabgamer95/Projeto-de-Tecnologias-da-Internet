@@ -47,4 +47,6 @@ body{
           60% {margin-left: calc(-728px * 2);}
           80% {margin-left: calc(-728px * 3);}
         }
-        
+        h1{
+          text-align: center;
+        }
