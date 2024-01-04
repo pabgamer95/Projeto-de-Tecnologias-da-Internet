@@ -36,6 +36,9 @@ body{
         width: 75%;
         text-align: center;
     }
+    #marks div{
+        width: 25%;
+    }
     article{
         width: 25%;
     }
