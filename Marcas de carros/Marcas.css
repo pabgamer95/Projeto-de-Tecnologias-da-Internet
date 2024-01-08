@@ -38,14 +38,14 @@ body{
         width: 100%;
       }
       .slide-wrapper {
-        width: calc(728px * 4);
+        width: calc(100% * 4);
         animation: slide 10s ease infinite;
       }
     @keyframes slide {
           20% {margin-left: 0px;} 
-          40% {margin-left: calc(-728px * 1);}
-          60% {margin-left: calc(-728px * 2);}
-          80% {margin-left: calc(-728px * 3);}
+          40% {margin-left: calc(-100% * 1);}
+          60% {margin-left: calc(-100% * 2);}
+          80% {margin-left: calc(-100% * 3);}
         }
         h1{
           text-align: center;
